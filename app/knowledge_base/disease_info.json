@@ -1,0 +1,17 @@
+{
+  "Early Blight": {
+    "cause": "Fungal infection",
+    "treatment": "Use fungicide like Mancozeb or neem oil",
+    "prevention": "Avoid overhead watering and ensure crop rotation"
+  },
+  "Late Blight": {
+    "cause": "Fungal pathogen",
+    "treatment": "Apply copper-based fungicides",
+    "prevention": "Use resistant crop varieties"
+  },
+  "Healthy": {
+    "cause": "No disease detected",
+    "treatment": "No treatment required",
+    "prevention": "Maintain regular crop care"
+  }
+}
